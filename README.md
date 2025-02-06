@@ -1,6 +1,6 @@
-# first_app
+# Rollit
 
-A new Flutter project.
+Roll a Dice if you are bored
 
 ## Getting Started
 
